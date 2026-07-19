@@ -132,10 +132,10 @@ cd BloodBond-Desktop-App
 
 ## 👨‍💻 Team Members
 
+- Tasfiah Tasnim Mrinmoyee
 - Samiha Chowdhury
 - Nusrat Mazumder Nisa
 - Shirajum Munira Mishu
-- Tasfiah Tasnim Mrinmoyee
 
 ---
 
